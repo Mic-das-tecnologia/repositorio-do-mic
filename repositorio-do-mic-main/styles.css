@@ -1,0 +1,24 @@
+body{
+    background: rgb(107, 4, 128);
+    
+}
+
+#cordotexto {
+    color: rgb(243, 194, 130);
+}
+
+#borda {
+    padding: 10px;
+    background: black;
+}
+
+#pai {
+    color: rgb(65, 4, 163);
+    font-size: 200px;
+    display: flex;
+    font-display: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
